@@ -11,4 +11,6 @@ The results are contained in a JSON and this JSON is posted back to application.
 shop names and prices are printed in a listview.
 
 
+EXAMPLE BARCODE (This barcode code will only work in Turkey!)
 
+<img src="https://github.com/itsMami/AndroidBarcodePriceComparison/blob/master/ExampleBarcode.jpeg" width="250" height="300">
